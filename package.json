@@ -8,7 +8,7 @@
     "start": "lite-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "VTG",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
